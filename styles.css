@@ -525,6 +525,7 @@ form textarea{
     border-top: none;
     border-left: none;
     border-right: none;
+    outline: none;
 }
 
 form input:focus{
