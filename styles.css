@@ -384,8 +384,8 @@ background: linear-gradient(90deg, rgba(226,47,42,1) 41%, rgba(234,55,17,1) 100%
 }
 
 .extra__header{
-    font-size: 24px;
-    padding: 0 30px;
+    font-size: 25px;
+    padding: 0 20px;
     text-align: center;
 }
 
@@ -406,7 +406,7 @@ background: linear-gradient(90deg, rgba(226,47,42,1) 41%, rgba(234,55,17,1) 100%
 .extra__box p{
     padding: 0 25px;
     color: #878787;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 25px;
 }
 
@@ -614,3 +614,9 @@ footer .submit .btn{
         padding: 0 30px;
     }
 }
+
+
+
+
+
+
